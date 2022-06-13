@@ -1,0 +1,23 @@
+*{
+    background-image: url("https://media.istockphoto.com/vectors/seamless-wallpaper-pattern-vector-id473423540?b=1&k=20&m=473423540&s=612x612&w=0&h=4VZwBx7g5PkNID3SHu3L9Ql6-GcZpHqeK6KysfS6P0U");
+
+    
+    
+}
+h1{
+    color: rgb(50, 71, 204) ;
+    background-color:white ;
+    text-decoration-line: underline;
+    text-align: center;
+}
+fieldset{
+    border-radius:3em;
+    text-align: justify;
+    background-color: rgb(85, 101, 192);
+}
+#result{
+    text-align: center;
+    color: rgb(95, 95, 228);
+    margin-left: 500px;
+    margin-top: 20px;
+}
